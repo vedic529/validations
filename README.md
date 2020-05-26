@@ -1,2 +1,3 @@
-# validations
-blue kale validation repo for training
+#rearrange 
+
+this module is used for rearranging names 
